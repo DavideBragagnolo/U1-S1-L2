@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.string {
+    margin-top: 0px;
+}
+
+.para1 {
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: darkcyan;
+    font-style: italic;
+}
+
+ul, ol {
+    padding-left: 12px;
+}
+
+th {
+    border-bottom: 2px solid #000;
+    padding-bottom: 4px;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+}
+
+td {
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+}
+
+iframe {
+    border-radius: 10px;
+}
